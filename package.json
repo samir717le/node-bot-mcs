@@ -1,0 +1,11 @@
+{
+  "name": "node-bot-mcs",
+  "version": "1.0.0",
+  "description": "bot for minecraft server",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "samir717le",
+  "license": "ISC"
+}
