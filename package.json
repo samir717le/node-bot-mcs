@@ -1,10 +1,17 @@
 {
-  "name": "node-bot-mcs",
+  "name": "@samir717le/node-bot-mcs",
   "version": "1.0.0",
-  "description": "bot for minecraft server",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samir717le/node-bot-mcs.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
   "scripts": {
-    "test": "node app.js"
+    "test": "node app.js",
+    "start": "node app.js"
   },
   "author": "samir717le",
   "license": "ISC"
