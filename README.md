@@ -1,7 +1,8 @@
 ## Node Bot MCS
 # Bot for Minecraft server 
 A bot make for minecraft server 
-
+## Status
+[![Node.js CI](https://github.com/samir717le/node-bot-mcs/actions/workflows/node.js.yml/badge.svg)](https://github.com/samir717le/node-bot-mcs/actions/workflows/node.js.yml)
 # Depend on
 MineFlayer
 
